@@ -7,7 +7,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
-                <h1>Home Project: Lattice Integration: Alpha Prototype</h1>
+                <h1>Top Pilot: AWS Amplify React Tutorial</h1>
             </header>
         </div>
     );
