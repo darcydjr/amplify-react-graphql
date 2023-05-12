@@ -16,10 +16,17 @@
         "amplifyreactgraphql1f69602c": {}
       },
       "api": {
-        "amplifyreactgraphql": {}
+        "amplifyreactgraphql": {},
+        "myrestservice": {}
       },
       "storage": {
         "imagestorage": {}
+      },
+      "function": {
+        "InputCustomerHandler": {
+          "deploymentBucketName": "amplify-amplify966e4fbbdd6c4-staging-30557-deployment",
+          "s3Key": "amplify-builds/InputCustomerHandler-6c554c326d7331447976-build.zip"
+        }
       }
     }
   }
